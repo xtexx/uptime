@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://xtexx.eu.org/avatar.webp
   name: "xtex's Uptime"
   introTitle: "Some service statuses"
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
