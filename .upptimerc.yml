@@ -2,19 +2,18 @@ owner: xtexChooser
 repo: uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Xensor V Wiki
+    url: https://w.xvnet.eu.org
+  - name: Xens Meta Wiki
+    url: https://meta.w.xvnet.eu.org
+  - name: Xensor V Network ntfy
+    url: https://ntfy.xvnet.eu.org
+  - name: 存档计划
+    url: https://lakeus.xyz
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Wikitech
+    url: https://wikitech.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
