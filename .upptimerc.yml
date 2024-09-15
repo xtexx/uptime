@@ -30,3 +30,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+assignees:
+  - xtexChooser
+
+user-agent: github.com/xtexChooser/uptime
