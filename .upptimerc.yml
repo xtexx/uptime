@@ -2,6 +2,10 @@ owner: xtexChooser
 repo: uptime
 
 sites:
+  - name: "xtex's Home"
+    url: https://xtexx.eu.org
+  - name: "xtex's Blog"
+    url: https://blog.xtexx.eu.org
   - name: Xensor V Network IdM
     url: https://id.xvnet.eu.org
   - name: Xensor V Wiki
@@ -18,7 +22,7 @@ sites:
     url: https://wikitech.wikimedia.org
 
 status-website:
-  cname: uptime.xtexx.eu.org
+  cname: upptime.xtexx.eu.org
   baseUrl: /
   logoUrl: https://xtexx.eu.org/avatar.webp
   name: "xtex's Uptime"
