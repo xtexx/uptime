@@ -6,12 +6,18 @@ sites:
     url: https://xtexx.eu.org
   - name: "xtex's Blog"
     url: https://blog.xtexx.eu.org
+  - name: "xtex's Uptime"
+    url: https://uptime.xtexx.eu.org
+  - name: "xtex's Upptime"
+    url: https://upptime.xtexx.eu.org
   - name: Xensor V Network IdM
     url: https://id.xvnet.eu.org
   - name: Xensor V Wiki
     url: https://w.xvnet.eu.org
   - name: Xens Meta Wiki
     url: https://meta.w.xvnet.eu.org
+  - name: FLCC Wiki
+    url: https://hgdns.ren
   - name: Xensor V Network ntfy
     url: https://ntfy.xvnet.eu.org
   - name: Project Archive
