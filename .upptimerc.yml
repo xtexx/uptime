@@ -25,7 +25,7 @@ status-website:
   cname: upptime.xtexx.eu.org
   baseUrl: /
   logoUrl: https://xtexx.eu.org/avatar.webp
-  name: "xtex's Uptime"
+  name: "xtex's Upptime"
   introTitle: "Some service statuses"
   theme: night
   scripts:
