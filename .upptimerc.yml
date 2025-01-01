@@ -10,8 +10,6 @@ sites:
     url: https://uptime.xtexx.eu.org
   - name: "xtex's Upptime"
     url: https://upptime.xtexx.eu.org
-  - name: Xensor V Network IdM
-    url: https://id.xvnet.eu.org
   - name: Xensor V Wiki
     url: https://w.xvnet.eu.org
   - name: Xens Meta Wiki
