@@ -13,7 +13,7 @@
     "time": 1061,
     "timeDay": 848,
     "timeWeek": 803,
-    "timeMonth": 1049,
+    "timeMonth": 1058,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-03-28": 235,
@@ -62,7 +62,7 @@
     "time": 985,
     "timeDay": 575,
     "timeWeek": 1509,
-    "timeMonth": 869,
+    "timeMonth": 878,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2025-03-28": 235,
@@ -111,7 +111,7 @@
     "time": 1090,
     "timeDay": 812,
     "timeWeek": 838,
-    "timeMonth": 839,
+    "timeMonth": 848,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2025-03-28": 235,
@@ -352,19 +352,19 @@
     "url": "https://wikitech.wikimedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/wikitech.wikimedia.org.ico",
     "slug": "wikitech",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 116,
-    "timeWeek": 251,
-    "timeMonth": 177,
-    "timeYear": 240,
+    "time": 239,
+    "timeDay": 96,
+    "timeWeek": 229,
+    "timeMonth": 173,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-04-23": 0
+      "2025-04-23": 12
     }
   }
 ]
