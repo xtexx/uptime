@@ -1,7 +1,7 @@
 url: https://uptime.xtexx.eu.org
-status: up
-code: 200
-responseTime: 1060
-lastUpdated: 2025-06-15T23:11:57.021Z
+status: down
+code: 502
+responseTime: 922
+lastUpdated: 2025-06-16T04:17:58.796Z
 startTime: 2024-11-16T15:28:18.842Z
 generator: Upptime <https://github.com/upptime/upptime>
