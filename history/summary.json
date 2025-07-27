@@ -186,19 +186,19 @@
     "url": "https://upptime.xtexx.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/upptime.xtexx.eu.org.ico",
     "slug": "xtex-s-upptime",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 137,
-    "timeWeek": 360,
-    "timeMonth": 306,
-    "timeYear": 494,
+    "time": 492,
+    "timeDay": 95,
+    "timeWeek": 321,
+    "timeMonth": 298,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 13
     }
   },
   {
