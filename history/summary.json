@@ -224,13 +224,13 @@
     "slug": "xtex-s-upptime",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.49%",
+    "uptimeDay": "98.84%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 465,
-    "timeDay": 221,
-    "timeWeek": 291,
+    "timeDay": 260,
+    "timeWeek": 287,
     "timeMonth": 314,
     "timeYear": 465,
     "dailyMinutesDown": {
@@ -367,9 +367,9 @@
     "url": "https://ntfy.xvnet.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/ntfy.xvnet.eu.org.ico",
     "slug": "xensor-v-network-ntfy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -379,6 +379,7 @@
     "timeMonth": 823,
     "timeYear": 888,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-05-16": 20
     }
   },
