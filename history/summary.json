@@ -4,17 +4,17 @@
     "url": "https://xtexx.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/xtexx.eu.org.ico",
     "slug": "xtex-s-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "66.10%",
-    "uptimeWeek": "93.43%",
+    "uptimeDay": "68.00%",
+    "uptimeWeek": "93.42%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "98.85%",
-    "time": 1185,
-    "timeDay": 797,
-    "timeWeek": 990,
-    "timeMonth": 1033,
-    "timeYear": 1226,
+    "time": 1190,
+    "timeDay": 1021,
+    "timeWeek": 1094,
+    "timeMonth": 1071,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2026-01-15": 138,
       "2026-01-14": 351,
@@ -72,7 +72,7 @@
       "2025-05-22": 34,
       "2025-05-15": 17,
       "2025-03-28": 235,
-      "2025-03-27": 201
+      "2025-03-27": 180
     }
   },
   {
@@ -80,16 +80,16 @@
     "url": "https://blog.xtexx.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.xtexx.eu.org.ico",
     "slug": "xtex-s-blog",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "66.08%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "67.99%",
     "uptimeWeek": "93.42%",
     "uptimeMonth": "96.72%",
     "uptimeYear": "98.84%",
     "time": 1138,
-    "timeDay": 1259,
-    "timeWeek": 1271,
-    "timeMonth": 1160,
+    "timeDay": 1286,
+    "timeWeek": 1261,
+    "timeMonth": 1157,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2026-01-15": 138,
@@ -147,8 +147,7 @@
       "2025-04-29": 22,
       "2025-03-28": 235,
       "2025-03-27": 287,
-      "2025-03-26": 39,
-      "2025-03-25": 19
+      "2025-03-26": 39
     }
   },
   {
@@ -156,16 +155,16 @@
     "url": "https://uptime.xtexx.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.xtexx.eu.org.ico",
     "slug": "xtex-s-uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "66.06%",
+    "uptimeDay": "67.97%",
     "uptimeWeek": "93.42%",
     "uptimeMonth": "96.78%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 1155,
-    "timeDay": 752,
-    "timeWeek": 1076,
-    "timeMonth": 1059,
+    "timeDay": 769,
+    "timeWeek": 1074,
+    "timeMonth": 1058,
     "timeYear": 1157,
     "dailyMinutesDown": {
       "2026-01-15": 138,
@@ -223,7 +222,7 @@
       "2025-03-28": 235,
       "2025-03-27": 315,
       "2025-03-26": 39,
-      "2025-03-25": 45
+      "2025-03-25": 19
     }
   },
   {
