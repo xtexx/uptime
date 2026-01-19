@@ -4,16 +4,16 @@
     "url": "https://xtexx.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/xtexx.eu.org.ico",
     "slug": "xtex-s-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "76.14%",
-    "uptimeWeek": "87.56%",
+    "uptimeDay": "76.12%",
+    "uptimeWeek": "87.55%",
     "uptimeMonth": "94.95%",
     "uptimeYear": "98.88%",
     "time": 1173,
-    "timeDay": 758,
+    "timeDay": 770,
     "timeWeek": 921,
-    "timeMonth": 971,
+    "timeMonth": 970,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2026-01-19": 281,
@@ -65,8 +65,7 @@
       "2025-08-05": 19,
       "2025-08-01": 33,
       "2025-07-22": 44,
-      "2025-07-20": 53,
-      "2025-07-19": 23
+      "2025-07-20": 53
     }
   },
   {
@@ -74,16 +73,16 @@
     "url": "https://blog.xtexx.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.xtexx.eu.org.ico",
     "slug": "xtex-s-blog",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "76.13%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "76.11%",
     "uptimeWeek": "87.55%",
     "uptimeMonth": "95.05%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.88%",
     "time": 1130,
-    "timeDay": 704,
-    "timeWeek": 1070,
-    "timeMonth": 1073,
+    "timeDay": 741,
+    "timeWeek": 1071,
+    "timeMonth": 1074,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2026-01-19": 281,
@@ -136,8 +135,7 @@
       "2025-07-19": 23,
       "2025-07-04": 16,
       "2025-06-28": 37,
-      "2025-06-27": 58,
-      "2025-06-26": 87
+      "2025-06-27": 58
     }
   },
   {
@@ -145,15 +143,15 @@
     "url": "https://uptime.xtexx.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.xtexx.eu.org.ico",
     "slug": "xtex-s-uptime",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "76.12%",
-    "uptimeWeek": "87.55%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "76.10%",
+    "uptimeWeek": "87.54%",
     "uptimeMonth": "95.11%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 1139,
-    "timeDay": 692,
-    "timeWeek": 904,
+    "timeDay": 722,
+    "timeWeek": 906,
     "timeMonth": 996,
     "timeYear": 1139,
     "dailyMinutesDown": {
@@ -206,8 +204,7 @@
       "2025-07-20": 53,
       "2025-07-19": 23,
       "2025-07-04": 16,
-      "2025-06-28": 37,
-      "2025-06-27": 58
+      "2025-06-28": 37
     }
   },
   {
@@ -251,7 +248,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.xvnet.eu.org.ico",
     "slug": "xensor-v-wiki",
     "status": "up",
-    "uptime": "96.54%",
+    "uptime": "96.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
