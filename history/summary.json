@@ -135,10 +135,10 @@
     "url": "https://uptime.xtexx.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.xtexx.eu.org.ico",
     "slug": "xtex-s-uptime",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "90.44%",
-    "uptimeWeek": "97.72%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "91.76%",
     "uptimeYear": "98.69%",
     "time": 1129,
@@ -147,7 +147,7 @@
     "timeMonth": 918,
     "timeYear": 1120,
     "dailyMinutesDown": {
-      "2026-02-03": 138,
+      "2026-02-03": 139,
       "2026-01-31": 92,
       "2026-01-25": 234,
       "2026-01-24": 868,
@@ -191,8 +191,7 @@
       "2025-08-14": 53,
       "2025-08-13": 115,
       "2025-08-12": 24,
-      "2025-08-11": 31,
-      "2025-08-09": 37
+      "2025-08-11": 31
     }
   },
   {
