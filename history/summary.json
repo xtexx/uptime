@@ -253,7 +253,7 @@
       "2026-02-03": 195,
       "2026-02-04": 199,
       "2026-02-05": 273,
-      "2026-08-25": 1221,
+      "2026-08-25": 1252,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -480,10 +480,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.xvnet.eu.org.ico",
     "slug": "xensor-v-wiki",
     "status": "down",
-    "uptime": "97.01%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
+    "uptime": "97.00%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "96.79%",
     "time": 1314,
     "timeDay": 993,
@@ -513,7 +513,7 @@
       "2026-05-18": 255,
       "2026-05-19": 441,
       "2026-05-20": 1256,
-      "2026-08-25": 64
+      "2026-08-25": 95
     }
   },
   {
@@ -523,10 +523,10 @@
     "slug": "xens-meta-wiki",
     "status": "down",
     "uptime": "97.02%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "96.81%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "96.80%",
     "time": 1276,
     "timeDay": 1043,
     "timeWeek": 926,
@@ -555,7 +555,7 @@
       "2026-05-18": 246,
       "2026-05-19": 435,
       "2026-05-20": 1256,
-      "2026-08-25": 56
+      "2026-08-25": 87
     }
   },
   {
@@ -563,17 +563,17 @@
     "url": "https://hgdns.ren",
     "icon": "https://icons.duckduckgo.com/ip3/hgdns.ren.ico",
     "slug": "flcc-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "96.79%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "96.78%",
-    "time": 1641,
-    "timeDay": 7204,
-    "timeWeek": 3429,
-    "timeMonth": 1697,
-    "timeYear": 1704,
+    "time": 1667,
+    "timeDay": 8790,
+    "timeWeek": 4440,
+    "timeMonth": 2045,
+    "timeYear": 1734,
     "dailyMinutesDown": {
       "2025-11-15": 988,
       "2025-11-14": 1440,
@@ -598,7 +598,7 @@
       "2026-05-18": 237,
       "2026-05-19": 414,
       "2026-05-20": 1256,
-      "2026-08-25": 46
+      "2026-08-25": 77
     }
   },
   {
