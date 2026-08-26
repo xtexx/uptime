@@ -202,11 +202,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.xtexx.eu.org.ico",
     "slug": "xtex-s-uptime",
     "status": "down",
-    "uptime": "70.65%",
+    "uptime": "70.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.03%",
+    "uptimeYear": "48.02%",
     "time": 954,
     "timeDay": 0,
     "timeWeek": 0,
@@ -253,7 +253,7 @@
       "2026-02-03": 195,
       "2026-02-04": 199,
       "2026-02-05": 273,
-      "2026-08-26": 16,
+      "2026-08-26": 53,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -482,10 +482,10 @@
     "slug": "xensor-v-wiki",
     "status": "down",
     "uptime": "97.00%",
-    "uptimeDay": "90.50%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "96.78%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "96.77%",
     "time": 1293,
     "timeDay": 921,
     "timeWeek": 1028,
@@ -515,7 +515,7 @@
       "2026-05-19": 441,
       "2026-05-20": 1256,
       "2026-08-25": 124,
-      "2026-08-26": 13
+      "2026-08-26": 51
     }
   },
   {
@@ -525,10 +525,10 @@
     "slug": "xens-meta-wiki",
     "status": "down",
     "uptime": "97.02%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "96.80%",
+    "uptimeDay": "89.96%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "96.79%",
     "time": 1276,
     "timeDay": 1042,
     "timeWeek": 946,
@@ -558,7 +558,7 @@
       "2026-05-19": 435,
       "2026-05-20": 1256,
       "2026-08-25": 99,
-      "2026-08-26": 9
+      "2026-08-26": 46
     }
   },
   {
@@ -567,11 +567,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hgdns.ren.ico",
     "slug": "flcc-wiki",
     "status": "down",
-    "uptime": "96.79%",
-    "uptimeDay": "94.34%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "96.78%",
+    "uptime": "96.78%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "96.77%",
     "time": 1703,
     "timeDay": 10951,
     "timeWeek": 5795,
@@ -602,7 +602,7 @@
       "2026-05-19": 414,
       "2026-05-20": 1256,
       "2026-08-25": 77,
-      "2026-08-26": 5
+      "2026-08-26": 42
     }
   },
   {
@@ -611,11 +611,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ntfy.xvnet.eu.org.ico",
     "slug": "xensor-v-network-ntfy",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.90%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.81%",
     "time": 854,
     "timeDay": 863,
     "timeWeek": 761,
@@ -629,7 +629,7 @@
       "2026-05-17": 95,
       "2026-05-19": 148,
       "2026-08-25": 36,
-      "2026-08-26": 0
+      "2026-08-26": 38
     }
   },
   {
