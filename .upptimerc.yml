@@ -32,8 +32,8 @@ status-website:
   name: "xtex's Upptime"
   introTitle: "Some service statuses"
   theme: night
-  scripts:
-    - src: https://xtex.codeberg.page/gadgets/@main/misc/upptime-rp.js
+#  scripts:
+#    - src: https://xtex.codeberg.page/gadgets/@main/misc/upptime-rp.js
   metaTags:
     - name: "color-scheme"
       content: "dark"
